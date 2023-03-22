@@ -1,6 +1,5 @@
 # XYZ-Ads-Airing-Report-Analysis
 
-
 This dataset having different TV
 Airing Brands, their product, and their category. The dataset includes the network
 through which Ads are airing, types of networks like Cable/ Broadcast, and the
